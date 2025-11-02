@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameHandler
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Char1
+  - Char2
+  - Char3
+  - cup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Char1
+    uniqueID: 528927047
+    locked: 0
+  - name: Char2
+    uniqueID: 965641591
+    locked: 0
+  - name: Char3
+    uniqueID: 1347452725
+    locked: 0
+  - name: Background
+    uniqueID: 2425258391
+    locked: 0
+  - name: cup
+    uniqueID: 2749244937
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 4261532535
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 2999250355
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 1835017811
+    locked: 0
+  - name: New Layer 9
+    uniqueID: 3902599255
+    locked: 0
+  - name: New Layer 10
+    uniqueID: 4049181697
+    locked: 0
+  - name: New Layer 11
+    uniqueID: 3976616881
+    locked: 0
+  - name: New Layer 12
+    uniqueID: 3245746891
+    locked: 0
+  - name: Cabclosed
+    uniqueID: 3205280471
+    locked: 0
